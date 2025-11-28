@@ -77,7 +77,7 @@ nav:
           - X32/M32: mixers/behringer/x32.md
 
       - DiGiCo:
-          - SQ/Quantum: mixers/digico/sd.md
+          - SD/Quantum: mixers/digico/sd.md
       - Incompatible: incompatible-mixers.md
       - Mackie:
           - DL: mixers/mackie/dl.md
